@@ -1,0 +1,10 @@
+Package: G4G
+Type: Package
+Title: Perform GLM GWAS
+Version: 0.1.0
+Author: Cristina Ocana Gallegos [aut, cre], Shelby Tisinai [aut, cre]
+Maintainer: Shelby Tisinai <shelby.tisinai@wsu.edu>
+Description: Performs GWAS using the GLM model. GLM incorporates genetic co-factors and Principle Components in the SNP p-value calculations, thus providing more accurate p-values and assessments on phenotype.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
